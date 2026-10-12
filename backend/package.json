@@ -1,0 +1,1 @@
+{"name":"pppc-backend","private":true,"version":"1.0.0","type":"module","scripts":{"dev":"node --watch --env-file-if-exists=.env src/server.js","start":"node --env-file-if-exists=.env src/server.js"},"dependencies":{"express":"^5.1.0","express-rate-limit":"^8.1.0","helmet":"^8.1.0","zod":"^4.1.0"}}
